@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "category": "Fiction",
+    "description": "A novel by F. Scott Fitzgerald about the Jazz Age.",
+    "price": 10.99
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "category": "Fiction",
+    "description": "A novel by Harper Lee about racial injustice.",
+    "price": 8.99
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "category": "Dystopian",
+    "description": "A novel by George Orwell about a totalitarian regime.",
+    "price": 12.99
+  },
+  {
+    "id": 4,
+    "title": "The Catcher in the Rye",
+    "category": "Fiction",
+    "description": "A novel by J.D. Salinger about teenage rebellion.",
+    "price": 9.99
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "description": "A novel by J.R.R. Tolkien about a hobbit's journey.",
+    "price": 14.99
+  },
+  {
+    "id": 6,
+    "title": "A Brief History of Time",
+    "category": "Science",
+    "description": "A book by Stephen Hawking about cosmology.",
+    "price": 15.99
+  },
+  {
+    "id": 7,
+    "title": "The Art of War",
+    "category": "Philosophy",
+    "description": "An ancient Chinese military treatise by Sun Tzu.",
+    "price": 6.99
+  },
+  {
+    "id": 8,
+    "title": "Pride and Prejudice",
+    "category": "Romance",
+    "description": "A novel by Jane Austen about love and societal expectations.",
+    "price": 7.99
+  },
+  {
+    "id": 9,
+    "title": "The Alchemist",
+    "category": "Adventure",
+    "description": "A novel by Paulo Coelho about a shepherd's journey.",
+    "price": 11.99
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings",
+    "category": "Fantasy",
+    "description": "A novel by J.R.R. Tolkien about the quest to destroy the One Ring.",
+    "price": 19.99
+  }
+]

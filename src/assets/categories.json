@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Fiction"
+  },
+  {
+    "id": 2,
+    "name": "Dystopian"
+  },
+  {
+    "id": 3,
+    "name": "Fantasy"
+  },
+  {
+    "id": 4,
+    "name": "Science"
+  },
+  {
+    "id": 5,
+    "name": "Philosophy"
+  },
+  {
+    "id": 6,
+    "name": "Romance"
+  },
+  {
+    "id": 7,
+    "name": "Adventure"
+  }
+]

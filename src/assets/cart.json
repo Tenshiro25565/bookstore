@@ -1,0 +1,17 @@
+{
+  "cart": [
+    {
+      "id": 8,
+      "title": "Pride and Prejudice",
+      "price": 7.99,
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "A Brief History of Time",
+      "price": 15.99,
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 23.98
+}
