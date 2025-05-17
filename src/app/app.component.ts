@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { CommonModule } from '@angular/common';
-import { LocalStorageService } from '../services/local-storage.service';
 import { RoleService } from '../components/role-service/role-service.component';
 
 @Component({
